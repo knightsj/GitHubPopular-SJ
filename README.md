@@ -14,7 +14,7 @@
 # 项目演示：
 
 ### 上排是iOS模拟器，下排是Android模拟器：
-![](http://oih3a9o4n.bkt.clouddn.com/rn_13.png)
+![](http://oih3a9o4n.bkt.clouddn.com/rn_13_1.png)
 
 ### 多主题切换：
 ![多主题切换](http://oih3a9o4n.bkt.clouddn.com/rn_15_1.png)
