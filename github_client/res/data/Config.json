@@ -1,0 +1,40 @@
+{
+  "items": [
+    "RNStudyNotes",
+    "GitHubPopular",
+    "TakePhoto",
+    "react-native-awesome",
+    "GroupListView",
+    "react-native-check-box",
+    "react-native-easy-toast",
+    "PUtils",
+    "IncrementalUpdate",
+    "BreakPointUploadUtil"
+  ],
+
+  "info": {
+    "html_url": "https://github.com/crazycodeboy/",
+    "url": "https://api.github.com/repos/crazycodeboy/",
+    "currentRepoUrl": "https://api.github.com/repos/crazycodeboy/GitHubPopular"
+  },
+
+  //作者信息
+  "author": {
+    "name": "CrazyCodeBoy",
+    "description": "专注于移动开发，分享知识，共享快乐。",
+    "avatar": "https://avatars2.githubusercontent.com/u/8716595?v=4&s=460",
+    "backgroundImage": "http://www.devio.org/io/GitHubPopular/img/for_githubpopular_about_me.jpg",
+    "url": "http://www.devio.org/"
+  },
+
+  //警告（修改）
+  //项目信息
+  "project": {
+    "name": "GitHub Popular",
+    "description": "This is a GitHub most popular repositories and trending repositories viewer with React Native.",
+    "icon":"http://www.devio.org/io/GitHubPopular/img/ic_app.png",
+    "backgroundImage":"http://www.rui2.net/uploadfile/output/2015/0322/44b845bf8ae757a2.jpg"
+
+  }
+}
+
