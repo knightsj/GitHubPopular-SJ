@@ -1,6 +1,6 @@
 # 项目介绍
 
-该项目来自慕课网实战课程：[React Native 开发跨平台 GitHubPopular](http://coding.imooc.com/class/89.html)，非常感谢该项目作者**贾鹏辉**老师的精心制作。
+这是我在学习很火的实战课程[《React Native 开发跨平台 GitHubPopular》](http://coding.imooc.com/class/89.html)后，写出的课程Demo，大家也可加入该课程学习提高自己。非常感谢该项目作者**贾鹏辉**老师的精心制作。
 
 >贾鹏辉老师还撰写了很多关于React Native的技术博客：[贾鹏辉老师的技术博客](http://www.devio.org/)，在里面可以学到很多关于React Native相关的知识。
 
@@ -17,7 +17,7 @@
 ![](http://oih3a9o4n.bkt.clouddn.com/rn_13.png)
 
 ### 多主题切换：
-![多主题切换](http://oih3a9o4n.bkt.clouddn.com/rn_15.png)
+![多主题切换](http://oih3a9o4n.bkt.clouddn.com/rn_15_1.png)
 
 ### 交互展示：
 ![](http://oih3a9o4n.bkt.clouddn.com/github%E5%AE%A2%E6%88%B7%E7%AB%AF_4.gif)
