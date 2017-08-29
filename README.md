@@ -29,11 +29,11 @@
 在项目根目录下执行：``npm install``方法。
 
 然后下载该项目需要的第三方组件(下载完成后也会自动放在node_modules文件夹里)。也是在根目录下执行下面的命令:
-``yarn add react-native-check-box``
-``yarn add react-native-parallax-scroll-view``
-``yarn add react-native-scrollable-tab-view``
-``yarn add react-native-sortable-listview``
-``yarn add react-native-tab-navigator``
+- ``yarn add react-native-check-box``
+- ``yarn add react-native-parallax-scroll-view``
+- ``yarn add react-native-scrollable-tab-view``
+- ``yarn add react-native-sortable-listview``
+- ``yarn add react-native-tab-navigator``
 
 ### 2. 打包运行
 
