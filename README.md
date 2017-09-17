@@ -10,6 +10,8 @@
 
 已经实现了除调用友盟接口和集成CodePush的功能，并且对项目做了一点重构，而且做了一点优化。
 
+更详细的中文介绍地址：[简书：从一个实战项目来看一下React Native开发的几个关键技术点](http://www.jianshu.com/p/241241aae095)
+
 目录结构：
 
 ![](http://oih3a9o4n.bkt.clouddn.com/rn_12.png)
