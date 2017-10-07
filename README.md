@@ -1,6 +1,9 @@
 # GitHubPopular-SJ
 
-
+![](https://img.shields.io/badge/build-success-brightgreen.svg)
+![](https://img.shields.io/badge/platform-iOS-blue.svg)
+![](https://img.shields.io/badge/platform-Android-green.svg)
+[![](https://img.shields.io/badge/License-MIT-ff69b4.svg)](https://github.com/knightsj/GitHubPopular-SJ/blob/master/LICENSE)
 
 ## 项目介绍
 
