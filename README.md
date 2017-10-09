@@ -1,8 +1,10 @@
 # GitHubPopular-SJ
 
 ![](https://img.shields.io/badge/build-success-brightgreen.svg)
-![](https://img.shields.io/badge/platform-iOS-blue.svg)
-![](https://img.shields.io/badge/platform-Android-green.svg)
+![](https://img.shields.io/badge/platform-iOS-30A3FC.svg)
+![](https://img.shields.io/badge/platform-Android-8FC550.svg)
+[![](https://img.shields.io/badge/blog-JianShu-EA6F5A.svg)](http://www.jianshu.com/p/241241aae095)
+[![](https://img.shields.io/badge/blog-JueJin-007FFF.svg)](https://juejin.im/post/59a65113f265da247b4e98c1)
 [![](https://img.shields.io/badge/License-MIT-ff69b4.svg)](https://github.com/knightsj/GitHubPopular-SJ/blob/master/LICENSE)
 
 ## 项目介绍
