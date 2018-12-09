@@ -19,7 +19,7 @@
 
 目录结构：
 
-![](http://oih3a9o4n.bkt.clouddn.com/rn_12.png)
+![](https://jknight-blog.oss-cn-shanghai.aliyuncs.com/react_native/imooc_demo/rn_p_folder_detail2.png)
 
 
 
@@ -27,13 +27,13 @@
 
 ### 上排是iOS模拟器，下排是Android模拟器：
 
-![](http://oih3a9o4n.bkt.clouddn.com/rn_13_1.png)
+![](https://jknight-blog.oss-cn-shanghai.aliyuncs.com/react_native/imooc_demo/rn_p_header.png)
 
 ### 多主题切换：
-![多主题切换](http://oih3a9o4n.bkt.clouddn.com/rn_15_1.png)
+![多主题切换](https://jknight-blog.oss-cn-shanghai.aliyuncs.com/react_native/imooc_demo/rn_p_theme.png)
 
 ### 交互展示：
-![](http://oih3a9o4n.bkt.clouddn.com/github%E5%AE%A2%E6%88%B7%E7%AB%AF_4.gif)
+![](https://jknight-blog.oss-cn-shanghai.aliyuncs.com/react_native/imooc_demo/rn_p_show.gif)
 
 
 
